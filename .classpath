@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Kris/Documents/JavaProjects/JavaCV/javacv-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kris/Documents/JavaProjects/JavaCV/javacv-bin/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kris/Documents/JavaProjects/JavaCV/javacv-bin/artoolkitplus-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kris/Documents/JavaProjects/JavaCV/javacv-bin/ffmpeg-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kris/Documents/JavaProjects/JavaCV/javacv-bin/flycapture-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kris/Documents/JavaProjects/JavaCV/javacv-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kris/Documents/JavaProjects/JavaCV/javacv-bin/libfreenect-windows-x86_64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

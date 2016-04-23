@@ -1,0 +1,16 @@
+request to save before exiting ON BUILD SCREEN
+
+Add webcam capability?
+
+need ability to delete an entire roster
+
+Also need the ability to edit someone's name.
+
+Would be nice to be able to switch back and forth between sections and edit screen.
+
+Why isn't the dialog centered when I start up the editing screen?
+
+Why is my student panel disappearing after I save a newly-modified roster?  Or after I change a student's name?
+THIS IS A BIG PROBLEM!
+
+Remove references to opencv unless I'm going to actually use it.
